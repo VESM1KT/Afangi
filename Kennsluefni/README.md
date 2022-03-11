@@ -3,4 +3,4 @@
 - [Ýmis sértákn á lyklaborðinu](./lyklabordid.md)
 - [Markdown](./markdown.md)
 - [Inkscape](./inkscape.md)
-    - [Laserskurðu](./laserskurdur.md)
+    - [Laserskurður](./laserskurdur.md)
