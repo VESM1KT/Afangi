@@ -4,3 +4,4 @@
 - [Markdown](./markdown.md)
 - [Inkscape](./inkscape.md)
     - [Laserskurður](./laserskurdur.md)
+- [Rafeindatækni](./rafeindataekni.md)
