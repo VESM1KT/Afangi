@@ -6,7 +6,7 @@
     - [Lengri grein á ensku](https://en.wikipedia.org/wiki/Ohm%27s_law)
 1. [Electricity](https://www.instructables.com/Electricity-2/)
 1. [Rafmagn, kafli 1 (bls 6 - 40)](https://vefir.mms.is/flettibaekur/namsefni/edlisfraedi1/#6)
-1. [Spenna straumur og viðnám, kafli 3.1 (bls 60 - 64)](https://vefir.mms.is/flettibaekur/namsefni/edlisfraedi2/#60)
+1. [Spenna, straumur og viðnám, kafli 3.1 (bls 60 - 64)](https://vefir.mms.is/flettibaekur/namsefni/edlisfraedi2/#60)
 <!-- 1. [Direct Current (DC)](https://www.allaboutcircuits.com/textbook/direct-current/) -->
 
 ---
