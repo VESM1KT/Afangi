@@ -23,7 +23,7 @@ Búðu til nýja síðu (markdown skjal) í Github geymslunni sem þú gerðir f
 
 ## 2.1 Logo
 
-Hannaðu með Inkscape eigið SVG logo. sjá [Inkscape](https://github.com/VESM1VS/V21-1/wiki/Inkscape)
+Hannaðu með Inkscape eigið SVG logo.
 
 Eftirfarandi þarf að nota við gerð logo-s:
 
@@ -40,7 +40,7 @@ Notaðu Inkscape til að hanna nafnspjald sem inniheldur nafnið þitt og logo-i
 
 ## 2.3 Hulstur (e. casing) utan um Arduino
 
-* notaðu Inkscape til að hanna hulstur utan um Arduino fyrir [laser prentun](https://github.com/VESM1VS/V21-1/wiki/Laserprentun).
+* notaðu Inkscape til að hanna hulstur utan um Arduino fyrir laserprentun.
 * finndu viðauka (e. extension) til að vinna með.
 * merktu hulstur með nafninu þínu og logo-inu sem þú gerðir í lið A.
 * Gerðu ráð fyrir að hægt sé að nota Arduino tölvuna þegar hún er í hulstrinu.
