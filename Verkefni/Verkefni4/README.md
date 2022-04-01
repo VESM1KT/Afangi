@@ -1,6 +1,6 @@
 # Verkefni 4 (20%)
 
-[rásarmynd](./ezgif.com-gif-maker-2.gif)
+![rásarmynd](./ezgif.com-gif-maker-2.gif)
 
 Verkefnið gengur út á að setja upp og forrita sambærilega rás og í myndinni hér að ofan.
 
