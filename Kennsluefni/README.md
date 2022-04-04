@@ -11,7 +11,7 @@
     - [Unnið með stafræn gildi](https://github.com/VESM2VT/Efni/blob/main/Kennsluefni/Digital.md)
     - [Unnið með hliðræn gildi](./analog.md)
         - [Stýripinni](https://github.com/VESM2VT/Efni/blob/main/Kodi/styripinni.ino)
-    - [Sonic fjarlægaðrmælir](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/)
+    - [Sonic fjarlægðarmælir](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/)
         - [Kóðadæmi](../Efni/sonic.ino)
     - [7Segment birtar](https://www.circuitbasics.com/arduino-7-segment-display-tutorial/)
     - Mótorar
