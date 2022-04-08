@@ -1,4 +1,4 @@
-# Verkefni 4 (20%)
+# Verkefni 5 (20%)
 
 - **Verkefnið er einstaklingsverkefni.** Ef tveir eða fleiri nemendur skila sömu lausnunum er gefið 0 (núll) fyrir þær lausnir.
 - **Ef kóði er tekinn af netinu** (eða öðrum álíka stöðum) skal taka það fram, benda á hvaðan hann kemur og skrifa skýringar (e. comment) við hverja línu kóðans. Sé það ekki gert verður gefið 0 (núll) fyrir verkefnið í heild. Almennt er ekki gefin einkunn fyrir kóða sem nemandi skrifar ekki sjálfur.
