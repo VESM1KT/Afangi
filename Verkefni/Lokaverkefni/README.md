@@ -26,5 +26,5 @@ Annað sem á að vera í geymslunni er m.a.:
 
 ## Skil verkefnisins
 
-Hóparnir kynna tækið og vinnu sína fyrir kennara í tímanum 30. apríl.
+Hóparnir kynna tækið og vinnu sína fyrir kennara í tímanum 29. apríl.
 
