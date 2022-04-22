@@ -10,6 +10,10 @@ Gert er ráð fyrir að hóparnir hanni (með Inkscape) og láti skera út hulst
 
 **Hópurinn þarf að fá samþykki kennara fyrir því sem hann hyggst gera.**
 
+## Bjargir
+- Kóði og sýnidæmi fyrir allt sem er í græna boxinu er [hér](https://wiki.keyestudio.com/Ks0074(75,_76)_keyestudio_Advanced_Study_Kit_for_Arduino).
+- [Námsefni áfangans](https://github.com/VESM1KT/Afangi/blob/main/Kennsluefni/README.md).
+
 ## Utanumhald
 
 Hver hópur heldur utan um vinnu sína í lokaðri geymslu (e. private repo) á GitHub. Það fyrsta sem þarf því að gera er að einn hópmeðlimur býr til lokaða geymslu og býður hópfélögum sínum ásamt kennara inn á geymsluna sem samstarfsaðilum (e. collaborator). Allt sem er í geymslunni á að vera snyrtilega sett upp með [markdown](../../Kennsluefni/markdown.md) málinu.
