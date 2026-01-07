@@ -3,3 +3,4 @@
 1. [Takki og LED](https://github.com/VESM1KT/Afangi/blob/main/Synidaemi/takki_led.py)
 1. [Random](https://github.com/VESM1KT/Afangi/blob/main/Synidaemi/random.py)
 1. [PassiveBuzzer](https://github.com/VESM1KT/Afangi/blob/main/Synidaemi/passiveBuzzer.py)
+1. [neoPixel](https://github.com/VESM1KT/Afangi/blob/main/Synidaemi/neoPixel.py) 
