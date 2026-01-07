@@ -2,5 +2,5 @@
 
 #### Forritun (MicroPython)
 - [Micropython](https://github.com/VESM1VS/AFANGI/wiki/Micropython)
-- [Kóðasýnidæmi](https://github.com/VESM1KT/Afangi/tree/main/Synidaemi)
+- [Kóðasýnidæmi](https://github.com/VESM1KT/Afangi/tree/main/Synidaemi) (með skýringum og víratengingum í wokwi).
 
