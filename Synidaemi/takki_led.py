@@ -12,4 +12,6 @@ while True:
         led.value(1)        # led on
     else:
         led.value(0)        # led off (ekki ýtt á takka eða takka sleppt) 
+
         
+# Nánar um if statements i Python:  https://www.w3schools.com/python/python_conditions.asp
