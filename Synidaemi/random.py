@@ -15,3 +15,5 @@ while True:
     pass	# gerir ekkert
 
 # ath. þú þarf að útfæra betri lausn þannig að aðeins eitt led logi í einu (slökkva á hinum).
+
+# nánar um lists: https://www.w3schools.com/python/python_lists.asp
