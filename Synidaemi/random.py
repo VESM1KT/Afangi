@@ -11,9 +11,6 @@ randomLed = randint(0, 2)   # random skilar gildinu 0, 1 eða 2.
 print(randomLed)            # skrifum random gildið í Shell.
 pins[randomLed].value(1)    # Skrifum 3.3V út á pinna 2, 16 eða 17.
 
-while True:
-    pass	# gerir ekkert
 
 # ath. þú þarf að útfæra betri lausn þannig að aðeins eitt led logi í einu (slökkva á hinum).
-
 # nánar um lists: https://www.w3schools.com/python/python_lists.asp
