@@ -17,3 +17,6 @@ while True:
     sleep_ms(500)       # Bíðum aftur í 500 millisekúndur 
     # förum aftur í línu 11
 
+
+    
+# nánar um while: https://www.w3schools.com/python/python_while_loops.asp
