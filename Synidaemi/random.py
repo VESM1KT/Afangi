@@ -8,11 +8,6 @@ led1 = Pin(2, Pin.OUT)
 led2 = Pin(4, Pin.OUT) 
 led3 = Pin(5, Pin.OUT) 
 
-# upphafsstaða á leds, off
-led1.value(0)
-led2.value(0)
-led3.value(0)
-
 # notum lista til að halda utan um mörg gildi.
 pins = [led1, led2, led3]	
 
