@@ -1,4 +1,4 @@
-### Kóðasýnidæmi með skýringum og tengimyndum.
+### Kóðasýnidæmi og tengingar (wokwi.com).
 1. [Blink](https://github.com/VESM1KT/Afangi/blob/main/Synidaemi/blink.py) _comments, variables, while loop_
 1. [LED pera og brauðbretti](https://github.com/VESM1KT/Afangi/blob/main/Synidaemi/led.py) _booleans_
 1. [Takki og LED](https://github.com/VESM1KT/Afangi/blob/main/Synidaemi/takki_led.py)  _if else_
