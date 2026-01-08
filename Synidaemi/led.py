@@ -1,19 +1,20 @@
-# Blátt LED blikkar með 2 sek. millibili og skrifar út on og off á víxl í Shell í Thonny
+# Blátt LED blikkar með 2 sek. millibili 
 # Tengingar og kóði: https://wokwi.com/projects/452532316363250689
 
 from machine import Pin    # Notum Pin úr machine kóðasafninu til að skilgreina pinnana á ESP. 
 from time import sleep_ms  # Notum svo sleep_ms til að láta forritið bíða
 
-# Búum til breytuna led og tengjum hana við pinna 3 á ESP. 
-led = Pin(4, Pin.OUT)   # Segjum að pinni 3 sé úttakspinni.
+# Búum til breytuna led og tengjum hana við pinna 4 á ESP. 
+led = Pin(4, Pin.OUT)   # Segjum að pinni 4 sé úttakspinni.
 
-# Gerum lykkju sem keyrir að eilífu
+led_state = False  # Our boolean variable
+
 while True:
+    # Set the LED to the current boolean state (False=0, True=1)
+    led.value(led_state)
     
-    led.value(1)     	# Skrifum 3.3V út á pinna 3
-    print("on")         # prentum út strenginn on í Shell í Thonny
-    sleep_ms(2000)    	# Bíðum í 2 sekúndur
-
-    led.value(0)    	# Skrifum 0V út á pinna 3
-    print("off")        # prentum út strenginn off í Shell í Thonny
-    sleep_ms(500)     	# Bíðum í 500 millisekúndur
+    # Flip the boolean
+    led_state = not led_state
+    
+    # Wait 500 milliseconds
+    sleep_ms(500)
