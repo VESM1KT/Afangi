@@ -7,3 +7,6 @@
 #### Hönnun
 1. 2D hönnun með [Inkscape](https://github.com/VESM1VS/AFANGI/wiki/2D-h%C3%B6nnun) _náðu í forritið (download og install)_
 2. 3D hönnun með [Tinkercad](https://www.tinkercad.com/) _búðu til reikning (e. Sign Up)_
+
+#### Lóðun
+1. [Lóðun](https://github.com/VESM1VS/afangi/wiki/L%C3%B3%C3%B0un)
