@@ -21,13 +21,14 @@
   - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 -->
 
-#### Að bæta við fyrirsagnir (h1, h2)
-` # texti` <br>
-`## texti`
+<details>
+<summary>Að bæta við link á skrá eða vefsíðu </summary>
 
-#### Að bæta við link á skrá eða vefsíðu 
+<br>
+
 `[texti](linkur)`
 
+</details>
 <details>
 <summary>Að bæta við ljósmynd</summary>
 
