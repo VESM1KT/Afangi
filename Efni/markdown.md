@@ -69,6 +69,6 @@ Búðu til [Github Profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_chan
 - ljósmynd 
 - töflu með dálkum og röðum
 - myndband tekið af símanum þínum
-- breyttu readme.md í vefsíðu hýst af GitHub
+- breyttu readme.md í vefsíðu hýst af GitHub, [leiðbeiningar](https://docs.github.com/en/pages/quickstart)
 
 > [creating a README for your GitHub profile](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
