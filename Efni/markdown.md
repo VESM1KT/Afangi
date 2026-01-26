@@ -16,6 +16,8 @@
 - [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
 - [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+<br>
+
 <!--
 - [Creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
   - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
