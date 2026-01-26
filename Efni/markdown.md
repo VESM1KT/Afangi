@@ -78,6 +78,6 @@ Skoðaðu eftirfarandi greinar um markdown:
     - einhvern texta um þig sem þú vilt deila með öðrum.
     - link á vefsíðu
     - ljósmynd 
-    - breyttu readme.md í vefsíðu hýst af GitHub, [Github Pages leiðbeiningar](https://docs.github.com/en/pages/quickstart)
+    - breyttu readme.md í vefsíðu hýst af GitHub, [leiðbeiningar](https://docs.github.com/en/pages/quickstart)
     
    
