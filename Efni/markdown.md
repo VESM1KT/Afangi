@@ -10,6 +10,8 @@
 > [að búa til Github profile](https://www.youtube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether)
 -->
 
+---
+
 ## Markdown málið og að skrifa skýrslu í readme.md
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
