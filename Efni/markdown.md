@@ -28,7 +28,11 @@
 #### Að bæta við link á skrá eða vefsíðu 
 `[texti](linkur)`
 
-#### Að bæta við ljósmynd
+<details>
+<summary>Að bæta við ljósmynd</summary>
+
+<br>
+
 `<img src="linkur á ljósmynd" width="50%" height="50%">` 
 
 prósentur eru fyrir breidd og hæð á mynd.
@@ -38,6 +42,8 @@ prósentur eru fyrir breidd og hæð á mynd.
 - markdown, ekki hægt að breyta breidd og hæð: <br> `![myndaheiti](linkur á ljósmynd)`
 -->
 
+</details>
+  
 <details>
 <summary>Að bæta við myndbandi </summary>
 
