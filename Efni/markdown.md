@@ -11,7 +11,7 @@
 ### Markdown málið (.md) 
 
 1. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-tables)
+1. [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 1. [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. [Markdown Crash Course](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) _youtube_
 
