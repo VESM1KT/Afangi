@@ -6,13 +6,11 @@
 1. [Upload ljósmyndir](https://www.yout-ube.com/watch?v=ATVm6ACERu8&ab_channel=RichMcCue) 
 1. Skrifa skýrslu í readme.md (sjá neðar)
 
-<!--
-> [að búa til Github profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether)
--->
+
 
 ---
 
-## Markdown málið og að skrifa skýrslu í readme.md
+## Markdown málið (.md) 
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
@@ -60,4 +58,16 @@ Dæmi: <br>
 `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
 
 
+---
+
+### Æfingaverkefni
+
+Búðu til [Github Profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether) með að skrifa í readme.md og settur þar inn:
+
+- fyrirsögn og texta
+- link á vefsíðu
+- ljósmynd 
+- töflu með dálkum og röðum
+- myndband tekið af símanum þínum
+- breyttu readme.md í vefsíðu hýst af GitHub
 
