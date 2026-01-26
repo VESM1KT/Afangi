@@ -6,6 +6,8 @@
 1. [Upload ljósmyndir](https://www.yout-ube.com/watch?v=ATVm6ACERu8&ab_channel=RichMcCue) 
 1. Skrifa markdown í readme.md (sjá æfingaverkefni)
 
+<br>
+
 > [að fá Github Stu­dent Developer pack](https://tskoli.is/tolvuthjonusta/github/) _(leibeiningar)_
  
 ---
