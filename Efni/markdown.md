@@ -4,7 +4,7 @@
 1. [Búa til repository með readme.md](https://www.yout-ube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
 1. [Búa til möppu fyrir ljósmyndir](https://www.yout-ube.com/watch?v=FvCsnUgAdWA&ab_channel=RichMcCue)
 1. [Upload ljósmyndir](https://www.yout-ube.com/watch?v=ATVm6ACERu8&ab_channel=RichMcCue) 
-1. Skrifa skýrslu í readme.md (sjá neðar)
+1. Skrifa markdown í readme.md (sjá æfingaverkefni)
 
 ---
 
