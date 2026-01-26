@@ -60,11 +60,11 @@ Skoðaðu eftirfarandi greinar um markdown:
   2. Myndalinkur á youtube myndband 
   <!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
   
-  `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
-  
-  Dæmi: <br>
-  `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
-  </details>
+    `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
+    
+    Dæmi: <br>
+    `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
+    </details>
 
 <!-- > [Markdown Crash Course (youtube)](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) -->
 
