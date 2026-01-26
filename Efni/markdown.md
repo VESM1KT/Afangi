@@ -1,5 +1,5 @@
 
-## Github 
+### Github 
 1. [Búa til reikning](https://youtu.be/ovCRBERA1NQ) á Github.com
 1. [Búa til repository með readme.md](https://www.yout-ube.com/watch?v=HhfPWwz8lVA&ab_channel=RichMcCue)  _hakaðu líka í README file reitinn_
 1. [Búa til möppu fyrir ljósmyndir](https://www.yout-ube.com/watch?v=FvCsnUgAdWA&ab_channel=RichMcCue)
@@ -8,7 +8,7 @@
 
 ---
 
-## Markdown málið (.md) 
+### Markdown málið (.md) 
 
 1. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 tables)
@@ -68,12 +68,12 @@ Dæmi: <br>
 
 ---
 
-## Æfingar
+### Æfingar
 
-### 1. Gagnvirkar æfingar í markdown
+#### 1. Gagnvirkar æfingar í markdown
 Fylgdu eftir [Markdown Online Tutorial](https://www.markdowntutorial.com) _gagnvirkar æfingar_
 
-### 2. Æfingaverkefni
+#### 2. Æfingaverkefni
 Búðu til [Github Profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether) með að skrifa í readme.md og settur þar inn:
 
 - fyrirsögn
