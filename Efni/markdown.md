@@ -20,6 +20,8 @@ Skoðaðu eftirfarandi greinar um markdown:
   - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 -->
 
+#### Linkar, myndir og myndbönd
+
 <details>
 <summary>Að bæta við link á skrá eða vefsíðu </summary>
 
