@@ -10,12 +10,10 @@
 
 ## Markdown málið (.md) 
 
-### Skoðaðu eftirfarandi efni um markdown:
-- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+1. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 tables)
-
-- [Markdown Crash Course](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) _youtube_
-- [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. [Markdown Crash Course](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) _youtube_
 
 <br>
 
