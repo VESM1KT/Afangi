@@ -70,18 +70,15 @@ Skoðaðu eftirfarandi greinar um markdown:
 
 ---
 
-### Æfingar
+### Verkefni
 
-#### 1. Gagnvirkar æfingar í markdown
-Fylgdu eftir [Markdown Online Tutorial](https://www.markdowntutorial.com) _gagnvirkar æfingar_
-
-#### 2. Æfingaverkefni
-Búðu til [Github Profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether) með að skrifa í readme.md og settur þar inn:
-
-- fyrirsögn
-- einhvern texta um þig sem þú vilt deila með öðrum.
-- link á vefsíðu
-- ljósmynd 
-- breyttu readme.md í vefsíðu hýst af GitHub, [Github Pages leiðbeiningar](https://docs.github.com/en/pages/quickstart)
-
-> [creating a README for your GitHub profile](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+1. Fylgdu [Markdown Online Tutorial](https://www.markdowntutorial.com) _(gagnvirkar æfingar)_
+1. Æfingaverkefni
+   Búðu til [Github Profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether) með að skrifa í readme.md og settur þar inn:
+    - fyrirsögn
+    - einhvern texta um þig sem þú vilt deila með öðrum.
+    - link á vefsíðu
+    - ljósmynd 
+    - breyttu readme.md í vefsíðu hýst af GitHub, [Github Pages leiðbeiningar](https://docs.github.com/en/pages/quickstart)
+    
+    > [creating a README for your GitHub profile](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
