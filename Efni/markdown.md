@@ -80,7 +80,7 @@ Skoðaðu eftirfarandi greinar um markdown:
 1. Búðu til Profile ([youtube](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether), [vefgrein](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)) með að skrifa í readme.md og settur þar inn:
     - fyrirsögn
     - einhvern texta um þig sem þú vilt deila með öðrum.
-    - link á vefsíðu
+    - link
     - ljósmynd 
     - breyttu readme.md í vefsíðu hýst af GitHub, [leiðbeiningar](https://docs.github.com/en/pages/quickstart)
     
