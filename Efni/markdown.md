@@ -45,7 +45,7 @@
 <summary>Að bæta við myndbandi </summary>
 <br>
 
-#### Að bæta við myndbandi (Drag & Drop)
+1. Að bæta við myndbandi (Drag & Drop)
 [Dragðu myndband](https://i.stack.imgur.com/vxyiV.gif) (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md. Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
 
 > The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image, `[![Title](Image URL)](Link URL)`. 
@@ -56,7 +56,7 @@
 `[![Myndband](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)`
 -->
 
-#### Myndalinkur á youtube myndband (til vara)
+2. Myndalinkur á youtube myndband 
 <!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
 
 `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
