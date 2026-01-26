@@ -57,14 +57,14 @@ Skoðaðu eftirfarandi greinar um markdown:
   `[![Myndband](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)`
   -->
   
-  2. Myndalinkur á youtube myndband 
-  <!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
-  
-    `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
-    
-    Dæmi: <br>
-    `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
-    </details>
+  2. Myndalinkur á youtube myndband  
+      `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
+        
+      Dæmi: <br>
+      `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
+     
+      <!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
+  </details>
 
 <!-- > [Markdown Crash Course (youtube)](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) -->
 
