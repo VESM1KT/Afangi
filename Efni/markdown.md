@@ -6,20 +6,20 @@
 1. [Upload ljósmyndir](https://www.yout-ube.com/watch?v=ATVm6ACERu8&ab_channel=RichMcCue) 
 1. Skrifa skýrslu í readme.md (sjá neðar)
 
-
-
 ---
 
 ## Markdown málið (.md) 
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-- [Creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
-  - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 - [Markdown Online Tutorial](https://www.markdowntutorial.com)
 - [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
 - [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+<!--
+- [Creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+  - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
+-->
 
 #### Að bæta við fyrirsagnir (h1, h2)
 ` # texti` <br>
@@ -60,7 +60,7 @@ Dæmi: <br>
 
 ---
 
-### Æfingaverkefni
+## Æfingaverkefni
 
 Búðu til [Github Profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether) með að skrifa í readme.md og settur þar inn:
 
@@ -71,3 +71,4 @@ Búðu til [Github Profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_chan
 - myndband tekið af símanum þínum
 - breyttu readme.md í vefsíðu hýst af GitHub
 
+> [creating a README for your GitHub profile](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
