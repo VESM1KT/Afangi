@@ -68,7 +68,7 @@ Skoðaðu eftirfarandi greinar um markdown:
 
 <br>
 
-> [Markdown Crash Course (youtube)](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) 
+<!-- > [Markdown Crash Course (youtube)](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) -->
 
 ---
 
