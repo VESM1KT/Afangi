@@ -33,9 +33,7 @@
 
 <br>
 
-`<img src="linkur á ljósmynd" width="50%" height="50%">` 
-
-prósentur eru fyrir breidd og hæð á mynd.
+`<img src="linkur á ljósmynd" width="50%" height="50%">`  prósentur eru fyrir breidd og hæð á mynd.
 
 <!--
 - með pixla fyrir breidd og hæð: <br> `<img src="linkur á ljósmynd" width="500" height="500">`
