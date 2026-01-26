@@ -10,11 +10,12 @@
 
 ## Markdown málið (.md) 
 
+### Skoðaðu eftirfarandi efni um markdown:
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-- [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
+tables)
+
+- [Markdown Crash Course](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) _youtube_
 - [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Markdown Online Tutorial](https://www.markdowntutorial.com) _gagnvirkar æfingar_
 
 <br>
 
@@ -69,8 +70,12 @@ Dæmi: <br>
 
 ---
 
-## Æfingaverkefni
+## Æfingar
 
+### 1. Gagnvirkar æfingar í markdown
+Fylgdu eftir [Markdown Online Tutorial](https://www.markdowntutorial.com) _gagnvirkar æfingar_
+
+### 2. Æfingaverkefni
 Búðu til [Github Profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether) með að skrifa í readme.md og settur þar inn:
 
 - fyrirsögn
