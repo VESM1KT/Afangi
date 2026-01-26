@@ -8,7 +8,7 @@
 
 <br>
 
-> [að fá Github Stu­dent Developer pack](https://tskoli.is/tolvuthjonusta/github/) _(leibeiningar)_
+> [Github Stu­dent Developer pack](https://tskoli.is/tolvuthjonusta/github/) _(leibeiningar)_
  
 ---
 
