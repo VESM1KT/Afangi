@@ -77,6 +77,6 @@ Búðu til [Github Profile](https://www.yout-ube.com/watch?v=l6dOkZx0rlE&ab_chan
 - einhvern texta um þig sem þú vilt deila með öðrum.
 - link á vefsíðu
 - ljósmynd 
-- breyttu readme.md í vefsíðu hýst af GitHub, [leiðbeiningar](https://docs.github.com/en/pages/quickstart)
+- breyttu readme.md í vefsíðu hýst af GitHub, [Github Pages leiðbeiningar](https://docs.github.com/en/pages/quickstart)
 
 > [creating a README for your GitHub profile](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
