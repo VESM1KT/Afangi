@@ -65,6 +65,8 @@ Dæmi: <br>
 `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
 </details>
 
+<br>
+
 > [Markdown Crash Course (youtube)](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) 
 
 ---
