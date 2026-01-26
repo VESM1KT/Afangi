@@ -27,7 +27,6 @@
 <br>
 
 `[texti](linkur)`
-
 </details>
 <details>
 <summary>Að bæta við ljósmynd</summary>
@@ -42,10 +41,8 @@
 -->
 
 </details>
-  
 <details>
 <summary>Að bæta við myndbandi </summary>
-
 <br>
 
 #### Að bæta við myndbandi (Drag & Drop)
@@ -66,7 +63,6 @@
 
 Dæmi: <br>
 `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
-
 </details>
 
 ---
