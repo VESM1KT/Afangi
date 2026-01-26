@@ -6,9 +6,8 @@
 1. [Upload ljósmyndir](https://www.youtube.com/watch?v=ATVm6ACERu8&ab_channel=RichMcCue) 
 1. Skrifa skýrslu í readme.md (sjá neðar)
 
-<!--
+
 > [að búa til Github profile](https://www.youtube.com/watch?v=l6dOkZx0rlE&ab_channel=GhostTogether)
--->
 
 ---
 
