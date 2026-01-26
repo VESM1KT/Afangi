@@ -11,13 +11,12 @@
 ### Markdown (.md) 
 
 1. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-1. [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 1. [Github Markdwon CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-1. [Markdown Crash Course](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) _youtube_
 
 <br>
 
 <!--
+1. [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 - [Creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
   - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 -->
@@ -65,6 +64,8 @@
 Dæmi: <br>
 `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
 </details>
+
+> [Markdown Crash Course (youtube)](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) 
 
 ---
 
