@@ -43,11 +43,10 @@ Skoðaðu eftirfarandi greinar um markdown:
   
   </details>
   <details>
-  <summary>Að bæta við myndbandi </summary>
+  <summary>Að bæta við myndbandi (tvær leiðir) </summary>
   <br>
   
-  1. Að bæta við myndbandi (Drag & Drop)
-  Dragðu myndband (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md. Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
+  1. Dragðu myndband (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md. Sjá nánar [How to Add an Embedded Video to Github Readme Files](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
 
   <!--
   > The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image, `[![Title](Image URL)](Link URL)`. 
