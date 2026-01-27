@@ -85,3 +85,4 @@ Skoðaðu eftirfarandi greinar um markdown:
     - breyttu readme.md í vefsíðu hýst af GitHub, [leiðbeiningar](https://docs.github.com/en/pages/quickstart)
     
    
+> Ítarefni: [Jekyll Templates](https://jekyllthemes.io/free)
