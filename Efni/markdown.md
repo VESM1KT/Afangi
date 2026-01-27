@@ -33,11 +33,6 @@ Skoðaðu eftirfarandi greinar um markdown:
   
   `<img src="linkur á ljósmynd" width="50%" height="50%">`
   
-  <!--
-  - með pixla fyrir breidd og hæð: <br> `<img src="linkur á ljósmynd" width="500" height="500">`
-  - markdown, ekki hægt að breyta breidd og hæð: <br> `![myndaheiti](linkur á ljósmynd)`
-  -->
-  
   </details>
   <details>
   <summary>Að bæta við myndbandi (tvær leiðir) </summary>
@@ -57,12 +52,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
         
       Dæmi: <br>
       `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
-     
-      <!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
 -->
-
-
-<!-- > [Markdown Crash Course (youtube)](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) -->
+<!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
 
 ---
 
