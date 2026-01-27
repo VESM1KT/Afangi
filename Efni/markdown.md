@@ -24,15 +24,8 @@ Skoðaðu eftirfarandi greinar um markdown:
   - [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 -->
 
-#### Linkar, mynd og myndband: 
+#### Að bæta við HTML 
 
-  <details>
-  <summary>Að bæta við link á skrá eða vefsíðu </summary>
-  
-  <br>
-  
-  `[texti](linkur)`
-  </details>
   <details>
   <summary>Að bæta við ljósmynd</summary>
   
@@ -51,24 +44,22 @@ Skoðaðu eftirfarandi greinar um markdown:
   <br>
   
   1. Dragðu myndband (.mp4, .mov) 10MB hámark úr tölvu/síma yfir í readme.md. Sjá [nánari leiðbeiningar](https://medium.com/huawei-developers/how-to-add-an-embedded-video-on-github-readme-file-450f83be157a).
+  2. Myndalinkur á youtube myndband.  
+     `<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>`
 
-  <!--
-  > The file is stored as an asset outside the repository. Uploads to githubusercontent and stores it there. Then makes a link in the markdown to that uploaded image, `[![Title](Image URL)](Link URL)`. 
-  -->
-  <!-- [heimild](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746) --> 
-  
-  <!-- 
-  `[![Myndband](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)](https://user-images.githubusercontent.com/117899282/222217311-3d43812d-6750-4b7e-945e-cce67de61149.mp4)`
-  -->
-  
-  2. Myndalinkur á youtube myndband  
-      `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
+  </details>
+
+<!--
+<!--
+     `[<img src="https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)`
         
       Dæmi: <br>
       `[<img src="https://img.youtube.com/vi/NeMznGbVOKM/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/NeMznGbVOKM)`
      
       <!-- https://orbitingweb.com/blog/view-youtube-thumbnail-image/ -->
-  </details>
+-->
+-->
 
 <!-- > [Markdown Crash Course (youtube)](https://www.yout-ube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia) -->
 
